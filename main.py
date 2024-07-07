@@ -5,6 +5,10 @@ from keras.regularizers import l2
 import preprocess
 from keras.callbacks import TensorBoard
 import numpy as np
+import os
+os.environ["PATH"] += os.pathsep + 'D:\GWF\software\package\Graphviz-12.0.0-win64\bin'
+
+print(os.environ['PATH'])
 
 # 训练参数
 batch_size = 128
