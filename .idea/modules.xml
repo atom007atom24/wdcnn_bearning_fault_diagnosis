@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wdcnn.iml" filepath="$PROJECT_DIR$/.idea/wdcnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wdcnn_bearning_fault_diagnosis.iml" filepath="$PROJECT_DIR$/.idea/wdcnn_bearning_fault_diagnosis.iml" />
     </modules>
   </component>
 </project>
