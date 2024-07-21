@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 logs/
 wdcnn.png
-.idea/
+/.idea/
